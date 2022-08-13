@@ -3,3 +3,6 @@
 /.idea/.gitignore
 /.idea/modules.xml
 /.idea/vcs.xml
+/337.all.tsv
+/app.log
+/output/20220812_231812.csv
