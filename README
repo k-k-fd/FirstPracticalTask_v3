@@ -1,0 +1,7 @@
+# Requirements
+  * Python 3.7
+
+# Sample Execution & Output
+    Setup by updating config.ini accordingly
+    Run main.py
+    Check the output message referencing to the output file
